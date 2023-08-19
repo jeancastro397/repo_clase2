@@ -1,0 +1,2 @@
+git add -A o git add .  ->  sirve para subir todo a la stding area, se mantiene en la memoria temporal
+git commit  ->  guarda los cambios de la memoria temporal
