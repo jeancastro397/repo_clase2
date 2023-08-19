@@ -1,2 +1,6 @@
 git add -A o git add .  ->  sirve para subir todo a la stding area, se mantiene en la memoria temporal
 git commit  ->  guarda los cambios de la memoria temporal
+git remote + nombre_origen + enlace_github  ->  para hacer el la conexion al repositorio de forma remota
+git clone + enlace_repositorio  ->  para clonar al escritorio el repositorio remoto (de GitHub)
+git push origen master  -> para subir los cambios al repositorio remoto, el nombre de origen puede cambiar y el master es la rama a hacer el cambio
+git pull origen master  -> baja los cambios hechos por los colaboradores, hace un merge y un fetch
